@@ -1,1 +1,1 @@
-A scripted pipeline printing a message.
+A scripted pipeline printing a message
